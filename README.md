@@ -12,7 +12,7 @@ pip install win32api
 pip install win32con
 ```
 
-##How to Run
+##How to Run the game
 
 Open the game in your browser and copy the x & y location of each block
 
@@ -20,7 +20,7 @@ Open the game in your browser and copy the x & y location of each block
 ```
 # 1st Block
 if pyautogui.pixel(x1,y1)[0] == 0:
-    click(x1,y1)
+    click(x1,y1) 
 # 2nd Block
 if pyautogui.pixel(x2,y2)[0] == 0:
     click(x2,y2)
