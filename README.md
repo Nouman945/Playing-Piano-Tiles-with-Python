@@ -5,11 +5,7 @@ Using python to play piano tiles game. A fun Project for Beginners !!
 ## Dependencies
 
 ```
-pip install pyautogui
-pip install keyboard
-pip install random
-pip install win32api
-pip install win32con
+pip install -r requirements.txt
 ```
 
 ##How to Run the game
