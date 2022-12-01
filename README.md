@@ -4,6 +4,21 @@ Using python to play piano tiles game. A fun Project for Beginners !!
 
 ## Dependencies
 
+This game is tested and working with python version 3.7
+
+Create the conda Enviroment Using 
+
+```
+conda create -n piano_tiles python=3.7
+```
+
+Activate the Enviroment Using
+
+```
+conda activate piano_tiles
+```
+And install the required dependencies using
+
 ```
 pip install -r requirements.txt
 ```
