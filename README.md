@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 ##How to Run the game
 
-Open the game in your browser and copy the x & y location of each block
+Open the game in your browser and copy the x & y location of each block and update the x,y values in the code in following sections
 
 
 ```
