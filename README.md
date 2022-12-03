@@ -1,4 +1,4 @@
-## Playing-Piano-Tiles-with-Python
+## Playing-Piano-Tiles-with-Python Bot
 
 Using python to play piano tiles game. A fun Project for Beginners !!
 
